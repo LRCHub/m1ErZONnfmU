@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Everybody Knows",
+  "base_artist": "The Devil Wears Prada",
+  "createdAt": "2026-02-18T19:50:52.621871Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/01_Everybody_Knows_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Everybody Knows This Is Nowhere - Live",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/02_Everybody_Knows_This_Is_Nowhere_-_Live_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "James",
+      "has_synced": false,
+      "path": "select/03_Everybody_Knows_James.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "The Free Association",
+      "has_synced": false,
+      "path": "select/04_Everybody_Knows_The_Free_Association.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Story Everybody Knows",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/05_A_Story_Everybody_Knows_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Leonard Cohen",
+      "has_synced": true,
+      "path": "select/06_Everybody_Knows_Leonard_Cohen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Fragma",
+      "has_synced": false,
+      "path": "select/07_Everybody_Knows_Fragma.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Ivy",
+      "has_synced": false,
+      "path": "select/08_Everybody_Knows_Ivy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "The Naked and Famous",
+      "has_synced": true,
+      "path": "select/09_Everybody_Knows_The_Naked_and_Famous.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Kimbra",
+      "has_synced": true,
+      "path": "select/10_Everybody_Knows_Kimbra.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everybody Knows (Except You)",
+      "artist": "The Divine Comedy",
+      "has_synced": true,
+      "path": "select/11_Everybody_Knows_(Except_You)_The_Divine_Comedy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/12_Everybody_Knows_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Everybody Knows",
+      "artist": "The Evens",
+      "has_synced": true,
+      "path": "select/13_Everybody_Knows_The_Evens.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Everybody Knows Everybody",
+      "artist": "Earlimart",
+      "has_synced": false,
+      "path": "select/14_Everybody_Knows_Everybody_Earlimart.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Everybody Knows It's Gonna Happen Only Not Tonight",
+      "artist": "The Go Find",
+      "has_synced": true,
+      "path": "select/15_Everybody_Knows_It's_Gonna_Happen_Only_Not_Tonight_The_Go_Find.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Everybody Knows This Is Nowhere - Live",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/16_Everybody_Knows_This_Is_Nowhere_-_Live_Red_Hot_Chili_Peppers.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Everybody Knows",
+      "artist": "The Devil Wears Prada",
+      "has_synced": false,
+      "path": "select/pl_01_Everybody_Knows_The_Devil_Wears_Prada.txt"
+    }
+  ]
+}
